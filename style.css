@@ -46,7 +46,7 @@ img {
 }
 
 .replay {
-    transform: translate(790px, 700px);
+    transform: translate(778px, 700px);
 }
 
 .fade {
@@ -54,7 +54,7 @@ img {
     transition: opacity 3s;
 }
 
-.fade.show {
+.fade.show {    
     opacity: 1;
     transition: opacity 3s;
 }
